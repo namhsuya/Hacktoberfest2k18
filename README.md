@@ -11,3 +11,5 @@ For starters, we'll be creating a file called <a href="https://github.com/rahulk
 Over the month, we'll be launching a couple of issues which you guys can solve in order to make sure that you all get to make 5 PRs and are eligible for the Hacktoberfest t-shirt.<br>
 
 ## Stay tuned people!
+
+## Y'all still here?
